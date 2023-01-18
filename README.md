@@ -14,6 +14,7 @@ Web Developer
    <a href="https://en.wikipedia.org/wiki/HTML" target="__blank"> <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> </a> 
   <a href="https://en.wikipedia.org/wiki/CSS" target="__blank"> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> </a> 
   <a href="https://sass-lang.com/" target="__blank"> <img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> </a> 
+   <a href="https://www.typescriptlang.org/" target="__blank"> <img alt="Typescript Badge" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="__blank"> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> </a> 
   <a href="https://reactjs.org/" target="__blank"> <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> </a> 
   <a href="https://firebase.google.com/" target="__blank"> <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> </a> 

@@ -3,7 +3,7 @@ Hi 👋 My name is Caiyi Chen
 Web Developer
 -------------
 
-*   👩‍💻  A front-end developer who is passionate about creating responsive, accessible and user-friendly websites/apps with front-end skills as well as continuously learning new technologies and applying them to create better digital experiences
+*   👩‍💻  A developer who is passionate about creating responsive, accessible and user-friendly websites/apps with current skills as well as continuously learning new technologies and applying them to create better digital experiences
   
 *   ✉️  You can contact me at [plutoccy@gmail.com](mailto:plutoccy@gmail.com) or find at my <a href="https://caiyi-chen.com" target="__blank">Portfolio</a> and  <a href="https://www.linkedin.com/in/caiyi-chen-b21898244/" target="__blank">LinkedIn</a>
   

@@ -21,7 +21,7 @@ Web Developer
  </p>
  
  ###  My GitHub Stats 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sputnikccy)](https://github.com/Sputnikccy/github-readme-stats)
+ 
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sputnikccy)
 
 <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sputnikccy" alt="Caiyi's Top Languages"> 

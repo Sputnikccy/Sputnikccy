@@ -1,4 +1,4 @@
-Hi 👋 My name is Caiyi Chen
+Hi 👋 
 =====================
 Web Developer
 -------------
